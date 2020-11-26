@@ -1,0 +1,32 @@
+1579511327502	Rename type 'dbconnection'
+1579573714766	Move 'filter.jsp' to 'META-INF'
+1579573750671	Move 'filter.jsp' to 'WEB-INF'
+1579573764511	Move 'filter.jsp' to 'lib'
+1579573791061	Move 'filter.jsp' to 'WebContent'
+1579594854971	Delete element
+1579594862888	Delete element
+1579594870303	Delete element
+1579601666121	Delete element
+1579606283640	Copy compilation unit
+1579606301448	Move compilation unit
+1579606307292	Delete element
+1579616309658	Delete element
+1579617267225	Delete element
+1579618122351	Move 'mysql-connector-java-8.0.18.jar' to 'WEB-INF'
+1579618139209	Move 'mysql-connector-java-8.0.18.jar' to 'WebContent'
+1579618347710	Move 'mysql-connector-java-8.0.18.jar' to 'lib'
+1579619131631	Delete element
+1579621937456	Delete element
+1579687365847	Delete element
+1579688494431	Delete element
+1579691632931	Delete element
+1579702865634	Delete element
+1579766506219	Delete element
+1579767363296	Move 'filter.jsp' to 'WebContent'
+1579769740303	Rename type 'showData'
+1579769802584	Rename type 'findData'
+1579769839660	Rename type 'filterData'
+1579769911615	Rename type 'dbconnectiondel'
+1579769944738	Rename type 'dbconnection'
+1579873011169	Copy compilation unit
+1579873039682	Copy compilation unit

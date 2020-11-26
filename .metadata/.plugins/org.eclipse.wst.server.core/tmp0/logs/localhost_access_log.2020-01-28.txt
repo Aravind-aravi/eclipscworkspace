@@ -1,0 +1,10 @@
+127.0.0.1 - - [28/Jan/2020:14:26:36 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [28/Jan/2020:14:26:48 +0530] "GET /resdetails/ShowResData HTTP/1.1" 200 3715329
+0:0:0:0:0:0:0:1 - - [28/Jan/2020:14:27:40 +0530] "POST /resdetails/FindUniqueData HTTP/1.1" 200 910
+0:0:0:0:0:0:0:1 - - [28/Jan/2020:14:27:47 +0530] "GET /resdetails/ShowResData HTTP/1.1" 200 3715329
+0:0:0:0:0:0:0:1 - - [28/Jan/2020:14:27:57 +0530] "POST /resdetails/FilterResData HTTP/1.1" 200 35223
+0:0:0:0:0:0:0:1 - - [28/Jan/2020:15:52:45 +0530] "GET /resdetails/ShowResData HTTP/1.1" 200 3715329
+0:0:0:0:0:0:0:1 - - [28/Jan/2020:15:52:55 +0530] "POST /resdetails/FilterResData HTTP/1.1" 200 58761
+0:0:0:0:0:0:0:1 - - [28/Jan/2020:15:53:01 +0530] "GET /resdetails/ShowResData HTTP/1.1" 200 3715329
+0:0:0:0:0:0:0:1 - - [28/Jan/2020:15:53:13 +0530] "POST /resdetails/FindUniqueData HTTP/1.1" 200 934
+0:0:0:0:0:0:0:1 - - [28/Jan/2020:15:53:20 +0530] "GET /resdetails/ShowResData HTTP/1.1" 200 3715329

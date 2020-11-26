@@ -1,0 +1,12 @@
+127.0.0.1 - - [20/Jan/2020:14:17:24 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [20/Jan/2020:14:17:27 +0530] "GET /resdetails/home.jsp HTTP/1.1" 200 521
+0:0:0:0:0:0:0:1 - - [20/Jan/2020:14:18:32 +0530] "GET /resdetails/home.jsp HTTP/1.1" 200 522
+0:0:0:0:0:0:0:1 - - [20/Jan/2020:14:18:55 +0530] "POST /resdetails/findData HTTP/1.1" 200 22
+0:0:0:0:0:0:0:1 - - [20/Jan/2020:14:19:25 +0530] "GET /resdetails/home.jsp HTTP/1.1" 200 523
+0:0:0:0:0:0:0:1 - - [20/Jan/2020:14:23:18 +0530] "GET /resdetails/home.jsp HTTP/1.1" 200 538
+0:0:0:0:0:0:0:1 - - [20/Jan/2020:14:27:51 +0530] "GET /resdetails/home.jsp HTTP/1.1" 200 554
+0:0:0:0:0:0:0:1 - - [20/Jan/2020:14:29:00 +0530] "GET /resdetails/home.jsp HTTP/1.1" 200 549
+127.0.0.1 - - [20/Jan/2020:21:45:44 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [20/Jan/2020:21:45:48 +0530] "GET /resdetails/home.jsp HTTP/1.1" 200 550
+0:0:0:0:0:0:0:1 - - [20/Jan/2020:21:46:11 +0530] "POST /resdetails/findData HTTP/1.1" 500 22
+0:0:0:0:0:0:0:1 - - [20/Jan/2020:21:46:15 +0530] "GET /resdetails/home.jsp HTTP/1.1" 200 550
